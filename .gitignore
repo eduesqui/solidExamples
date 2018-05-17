@@ -1,0 +1,10 @@
+/.metadata/
+
+solid/\.settings/
+
+RemoteSystemsTempFiles/
+
+solid/\.classpath
+
+solid/\.project
+solid/target/*
