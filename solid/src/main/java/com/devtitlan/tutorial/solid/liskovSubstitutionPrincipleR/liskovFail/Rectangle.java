@@ -2,7 +2,6 @@ package com.devtitlan.tutorial.solid.liskovSubstitutionPrincipleR.liskovFail;
 
 public class Rectangle {
 
-	
 	int width;
 	int height;
 	
