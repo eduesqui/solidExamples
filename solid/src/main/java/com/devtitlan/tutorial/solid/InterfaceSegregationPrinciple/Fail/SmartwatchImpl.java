@@ -3,7 +3,7 @@ package com.devtitlan.tutorial.solid.InterfaceSegregationPrinciple.Fail;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class SmartwatchImpl {
+public class SmartwatchImpl implements IWatch{
 	
 	public String getTime() {
 		SimpleDateFormat format = new SimpleDateFormat("hh:mm:ss");
