@@ -6,7 +6,7 @@ public class Start {
 	
 	public double getArea(IShape shape) {
 		double area = 0;
-		 if(shape instanceof Circle) {
+		 if(shape instanceof Triangle) {
 			Triangle triangle = (Triangle) shape;
 			area= (triangle.getBase()*triangle.getHeight())/2;
 	     
