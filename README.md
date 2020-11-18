@@ -1,4 +1,5 @@
 # Ejemplos de como implementar los principios solid
+![GitHub last commit](https://img.shields.io/github/last-commit/eduesqui/solidExamples?style=plastic)
 ## Descripción
 SOLID  es un acronimo de Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion.
 En este proyecto en conjunto con mi [post](https://medium.com/eduesqui/solid-e79c3f7eb459) explico como hace un codigo limpio y profesional.
