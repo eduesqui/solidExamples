@@ -8,7 +8,7 @@ En este proyecto en conjunto con mi [post](https://medium.com/eduesqui/solid-e79
 * Java
 
 ## Instalación
-* Posicionarse en la carpeta raiz y ejecutar ``mvn clean install
+* Posicionarse en la carpeta raiz y ejecutar `mvn clean install`
 
 ## Modo de uso
 * Los ejemplos estan dividos en cada principio que se desea aprender. Usar el post relacionado para complementar los ejemplos.
