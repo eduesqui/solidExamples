@@ -18,4 +18,4 @@ En este proyecto en conjunto con mi [post](https://medium.com/eduesqui/solid-e79
 * Los ejemplos estan dividos en cada principio que se desea aprender. Usar el post relacionado para complementar los ejemplos.
 
 
-Visit [eduesqui.com](https://eduesqui.com) 
+Visit [funcionaenmimaquina.com](https://funcionaenmimaquina.com) 
